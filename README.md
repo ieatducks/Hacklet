@@ -45,7 +45,7 @@
 
 <!-- USAGE -->
 ## ‎‎ <img width="18" src="https://cdn.discordapp.com/emojis/1034440804938301447"> ‎ ‎ How to install
-- Download the extension from <a href="https://github.com/The-Blooket-Hacks/Blooket-Hacks/releases/latest">here</a>.
+- Download the extension from <a href="[https://github.com/ieatducks/Hacklet/releases/latest](https://github.com/ieatducks/Hacklet/releases/tag/ext)">here</a>.
 - If the file is zipped, then unzip it.
 - Open either Google Chrome, Microsoft Edge, Chromium, or Arc. (Any browser that supports Chrome extensions)
 - Open the extensions page where it lists all the extensions.
